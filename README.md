@@ -1,0 +1,3 @@
+# sgssi_proyecto1
+Entrega del Proyecto 1 de SGSSI Lucas Abaitua / Estefanía Oñate <br>
+ENTREGAMOS ESTE ARCHIVO DESDE ESTE REPOSITORIO YA QUE SUPERA EL TAMAÑO LÍMITE DE ENTREGA DE eGela Y DEL CORREO WEB DE EHU.
